@@ -84,18 +84,20 @@ To deploy the Note Taker application using Render:
    Ensure all your code is committed and pushed to your GitHub repository.
 
 2. **Deploy on Render:**
+
    - Go to [Render.com](https://render.com) and log in.
    - Click on **"New"** and select **"Web Service"**.
    - Connect your GitHub repository and choose the appropriate branch.
-   - Configure your service settings (Build Command: `npm install`, Start Command: `npm start`).
+   - Configure your service settings (Build Command: `npm install`, Start Command: `node server.js`).
    - Set any required environment variables.
 
 3. **Access Your Application:**
    - Render will provide a URL where your application is accessible after deployment.
    - Monitor and manage your deployment via the Render dashboard.
 
-## Deployed Application 
-https://note-taker-fvwk.onrender.com/ 
+## Deployed Application
+
+https://note-taker-fvwk.onrender.com/
 
 ## License
 
