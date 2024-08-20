@@ -75,7 +75,8 @@ The Note Taker application helps users organize their thoughts and manage tasks 
 ![alt text](<Note Taker 1.png>)
 ![alt text](<Note Taker 2.png>)
 
-## Deployed Application
+## Deployed Application 
+https://elissegomez24.github.io/Note-Taker/ 
 
 ## License
 
