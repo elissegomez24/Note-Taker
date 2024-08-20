@@ -15,6 +15,7 @@ The Note Taker application helps users organize their thoughts and manage tasks 
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
 - [Screenshots](#screenshots)
+- [Deployment on Render](#deployment-on-render)
 - [Deployed Application](#deployed-application)
 - [License](#license)
 
@@ -75,8 +76,26 @@ The Note Taker application helps users organize their thoughts and manage tasks 
 ![alt text](<Note Taker 1.png>)
 ![alt text](<Note Taker 2.png>)
 
+## Deployment on Render
+
+To deploy the Note Taker application using Render:
+
+1. **Push to GitHub:**
+   Ensure all your code is committed and pushed to your GitHub repository.
+
+2. **Deploy on Render:**
+   - Go to [Render.com](https://render.com) and log in.
+   - Click on **"New"** and select **"Web Service"**.
+   - Connect your GitHub repository and choose the appropriate branch.
+   - Configure your service settings (Build Command: `npm install`, Start Command: `npm start`).
+   - Set any required environment variables.
+
+3. **Access Your Application:**
+   - Render will provide a URL where your application is accessible after deployment.
+   - Monitor and manage your deployment via the Render dashboard.
+
 ## Deployed Application 
-https://elissegomez24.github.io/Note-Taker/ 
+https://note-taker-fvwk.onrender.com/ 
 
 ## License
 
